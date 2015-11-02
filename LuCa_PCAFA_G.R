@@ -1,4 +1,4 @@
-#title: "PCA and FA on *Lung Cancer* dataset"
+#title: "Running PCA and FA on *Lung Cancer* dataset"
 #author: "Somi Afiuni"
 ### [http://archive.ics.uci.edu/ml/]
   
